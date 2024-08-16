@@ -18,7 +18,7 @@ Motivated and experienced web developers with WordPress and Strapi development b
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-2b80ff?style=flat-square&logo=css3&logoColor=white" />
 </p>
-<h3 align="left">My CMS:</h3>
+<h3 align="left">Our CMS:</h3>
 <p>
   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-0155A4?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-9C08BD?style=flat-square&logo=strapi&logoColor=white" />
