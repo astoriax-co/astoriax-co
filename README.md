@@ -1,5 +1,5 @@
-<h1 align="center">Hello World 👋, Astoriax is here</h1>
-<h3 align="center">A passionate developer team from Iran</h3>
+<h1 align="center">Hello World 👋, PuppyDev is here</h1>
+<h3 align="center">A passionate developer from Iran</h3>
 
 Motivated and experienced web developers with WordPress and Strapi development background. Looking for a new opportunity to continue building and optimizing web development, using our coding, analysis and debugging skills. Passionate about open source technology and dedicated to improving our skills in this field.
 
